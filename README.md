@@ -21,12 +21,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Conclusion
 
-- Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
-- Popularity of the casts and crews have higher linear correlation value with ratings
-- Resampling imbalanced data improved model performance especially on the minority class
-- Logistic Regression did not perform well with non-linearly correlated variables
-- Neural Networks along with SMOTEENN resampling method consistently did well in predicting good movies after 100 training attempts (around 72% accuracy, 70% recall)
-- Yes, it is possible to predict if a movie is good with acceptable amount of accuracy and recall
+- Studytime and Pedu have weak positive correlation to grades. On the other hand, traveltime and failures have weak negative correlation to grades.
+- There is no strong correlation between alcohol consumption and grades.
+- Generally, there is an increase in median Math and Portuguese grades for students who study more.
+- To predict students' pass/fail status, MG2 is the most important feature in making this prediction.
+- Students who attend Gabriel Pereira school and students who attend Mousinho da Silveira school have the same grades for Maths but different grades for Portuguese.
+- Gabriel Pereira students typically spend more time studying than their Mousinho da Silva counterparts, which corresponds to GP students attaining higher PG3 grades.
 
 ## What did we learn from this project?
 
