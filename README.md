@@ -33,12 +33,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Data Cleaning: pd.merge, df.rename, df.drop_duplicates
 - Hypothesis testing: t-test, scipy.stats.fisher_exact
 - Decision Tree Classifier: feature_importances_
+- Data Presenting: Presenting data clearly
 
 ## Contributors
 
-- @JopatB - EDA, Hypothesis Testing, Decision Tree Classifier
-- @apriliakeziaa - Data Visualization, EDA 
-- @MaiNguyenTrucLinh - Data Extraction, Data Cleaning, Hypothesis Testing
+- @JopatB / Jonathan Patrick Budihardjo - EDA, Hypothesis Testing, Decision Tree Classifier
+- @apriliakeziaa / Kezia Aprilia Sanjaya - Data Visualization, EDA 
+- @MaiNguyenTrucLinh / Mai Nguyen Truc Linh - Data Extraction, Data Cleaning, Hypothesis Testing
 
 ## References
 
