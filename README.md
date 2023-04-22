@@ -21,8 +21,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Conclusion
 
-- Studytime and Pedu have weak positive correlation to grades. On the other hand, traveltime and failures have weak negative correlation to grades.
 - There is no strong correlation between alcohol consumption and grades.
+- Studytime and Pedu have weak positive correlation to grades. On the other hand, traveltime and failures have weak negative correlation to grades.
 - Generally, there is an increase in median Math and Portuguese grades for students who study more.
 - To predict students' pass/fail status, MG2 is the most important feature in making this prediction.
 - Students who attend Gabriel Pereira school and students who attend Mousinho da Silveira school have the same grades for Maths but different grades for Portuguese.
