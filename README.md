@@ -31,8 +31,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## What did we learn from this project?
 
 - Data Cleaning: pd.merge, df.rename, df.drop_duplicates
-- Data Visualization: swarm plot
-- Hypothesis testing: t-test
+- Hypothesis testing: t-test, scipy.stats.fisher_exact
 - Decision Tree Classifier: feature_importances_
 
 ## Contributors
@@ -54,3 +53,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [Changing a column of 'yes'/'no' to 1/0 in a Pandas DataFrame](https://stackoverflow.com/questions/40901770/is-there-a-simple-way-to-change-a-column-of-yes-no-to-1-0-in-a-pandas-dataframe)
 - [Gradient Boosting Regression - Feature Importance](https://github.com/Eligijus112/gradient-boosting/blob/master/regression/feature_importance.ipynb)
 - [How feature importance is calculated in Decision Trees? with example](https://medium.com/data-science-in-your-pocket/how-feature-importance-is-calculated-in-decision-trees-with-example-699dc13fc078)
+- [scipy.stats.fisher_exact](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.fisher_exact.html)
