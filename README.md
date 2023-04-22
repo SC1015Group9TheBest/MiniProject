@@ -53,3 +53,4 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - [pandas.DataFrame.dropna](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)
 - [Changing a column of 'yes'/'no' to 1/0 in a Pandas DataFrame](https://stackoverflow.com/questions/40901770/is-there-a-simple-way-to-change-a-column-of-yes-no-to-1-0-in-a-pandas-dataframe)
 - [Gradient Boosting Regression - Feature Importance](https://github.com/Eligijus112/gradient-boosting/blob/master/regression/feature_importance.ipynb)
+- [How feature importance is calculated in Decision Trees? with example](https://medium.com/data-science-in-your-pocket/how-feature-importance-is-calculated-in-decision-trees-with-example-699dc13fc078)
