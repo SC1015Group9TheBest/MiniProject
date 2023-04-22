@@ -4,10 +4,10 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which explores and analyses [The Student Alcohol Consumption Dataset](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption). For detailed walkthrough, please view the source code in order from:
 
-1. [Data Cleaning]()
-3. [Data Visualisation and EDA]()
-4. [Decision Tree Classifier]()
-5. [Hypothesis Testing]()
+1. [Data Cleaning](https://github.com/SC1015Group9TheBest/MiniProject/blob/main/1.%20Data%20Extraction%20and%20Cleaning.ipynb)
+3. [Data Visualisation and EDA](https://github.com/SC1015Group9TheBest/MiniProject/blob/main/2.%20Data%20Visualization%20and%20EDA.ipynb)
+4. [Decision Tree Classifier](https://github.com/SC1015Group9TheBest/MiniProject/blob/main/3.%20Decision%20Tree%20Classifier.ipynb)
+5. [Hypothesis Testing](https://github.com/SC1015Group9TheBest/MiniProject/blob/main/4.%20Hypothesis%20Testing.ipynb)
 
 ## Problem Definition
 
