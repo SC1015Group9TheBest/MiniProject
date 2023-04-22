@@ -30,9 +30,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## What did we learn from this project?
 
-- Data Cleaning: pd.merge, df.rename, df.drop_duplicates
+- Data Exploration: df.describe, df.corr
+- Data Cleaning: pd.merge, df.rename, df.drop_duplicates, df.fillna ,df.dropna
 - Hypothesis testing: t-test, scipy.stats.fisher_exact
-- Decision Tree Classifier: feature_importances_
+- Decision Tree Classifier: feature_importances_, categorical variable encoding
 - Data Presenting: Presenting data clearly
 
 ## Contributors
